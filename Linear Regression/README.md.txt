@@ -1,1 +1,0 @@
-MSE and gradient descent implemented in order to predict dollar Official and market price with linear regression 
