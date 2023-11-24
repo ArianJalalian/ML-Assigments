@@ -1,0 +1,1 @@
+Implemented softmax and cross-entropy in order to predict car decision value (unacceptable, acceptable, good, very good) with multiclass logistic regression
